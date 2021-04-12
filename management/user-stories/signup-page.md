@@ -1,5 +1,4 @@
 # Sign Up Page
-
 1. You can create your account on the Top Beat website, or in the app.
 2. Create your account
 3. Select SIGN UP.
